@@ -12,7 +12,12 @@
 #   It is very simple to use. Run it and enter the IP yo\#
 #want to obfuscate into the various formats. These forma\#
 #ts are accepted by most standard web browsers and progr\#
-#ams.                                                    #
+#ams. This doesn't provide anonymity, only the textual r\#
+#epresentation of the IP address itself.                 #
+#   This version currently does not have proper error ha\#
+#ndling and was written in a rush, I apologize for any i\#
+#nconvenience that this causes for anyone using this pro\#
+#gram.                                                   #
 ##########################################################
 
 ##########################################################
